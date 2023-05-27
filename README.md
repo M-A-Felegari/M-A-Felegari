@@ -1,5 +1,4 @@
-# 💫 About Me:
-🌱 I’m currently learning ASP.Net MVC<br>❤ I Love C #, but I'm not biased about it 
+Love C#, but not biased about it 
 
 
 # 💻 Tech Stack:
