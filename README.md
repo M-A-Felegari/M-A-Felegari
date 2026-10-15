@@ -1,4 +1,4 @@
-# Hi, I'm a .NET Backend Engineer 👋
+# Hi, I'm a .NET Backend Engineer
 
 I've spent the past 8 years building software, starting with full-stack development and gradually moving toward complex enterprise backend systems. Along the way, I've become increasingly interested in what goes into designing systems, making architectural decisions, and helping teams navigate technical challenges.
 
